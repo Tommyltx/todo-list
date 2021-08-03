@@ -290,3 +290,10 @@ body {
 .c-cb > input[type="checkbox"]:checked + label::after {
   opacity: 1;
 }
+.todoapp{
+  height: 4000px;
+}
+.sticky{
+  position: sticky;
+  top: 60vh;
+}
